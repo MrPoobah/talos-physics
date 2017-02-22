@@ -2,4 +2,4 @@
 
 Hello people!
 
-I study Physics and I want to learn how to program.
+I study Physics and I want to learn how to code.
